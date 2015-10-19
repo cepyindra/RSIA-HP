@@ -34,7 +34,7 @@
           <li><a href="<?php echo base_url(); ?>home/"><i class="glyphicon glyphicon-home"></i> Home</a></li>
           <li><a href="<?php echo base_url(); ?>pasien/"><i class="glyphicon glyphicon-th"></i> Pasien</a></li>
           <li><a href="<?php echo base_url(); ?>login/login_form">Login</a></li>
-          <li><a href="#">Tentang Kami</a></li>
+          <li><a href="<?php echo base_url(); ?>about/">Tentang Kami</a></li>
         </ul>
       </div><!--/.nav-collapse -->
     </div>
