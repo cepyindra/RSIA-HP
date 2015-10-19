@@ -1,4 +1,4 @@
-# RSIA-HP
+# RSIA Humana Prima
 Tugas Akhir Sistem Basis Data
 
 "Aplikasi Pengelolaan Rawat Inap RSIA Humana Prima"
