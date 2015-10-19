@@ -2,7 +2,7 @@
   <div class="panel panel-default">
   <div class="panel-heading" align="center"><b>Hasil Pencarian</b></div>
 	<div class="panel-body">
-	<a href="<?php echo base_url(); ?>home/" class="btn btn-primary"><i class="glyphicon glyphicon-repeat"></i> Kembali</a>
+	<a href="<?php echo base_url(); ?>pasien/" class="btn btn-primary"><i class="glyphicon glyphicon-repeat"></i> Kembali</a>
 	<br><br>
 		<?php
 			$no=0;
